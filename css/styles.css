@@ -1,0 +1,152 @@
+ body {
+     background-color: rgb(199, 144, 199);
+     margin: 0;
+     text-align: center;
+     font-family: 'Indie Flower', sans-serif;
+     font-size: 20px;
+     color: #40514e
+ }
+ 
+ p {
+     line-height: 2;
+ }
+ 
+ a {
+     color: #14494b;
+     font-family: 'Indie Flower', sans-serif;
+     margin: 10px 10px 10px 10px;
+     text-decoration: none;
+ }
+ 
+ a:hover {
+     color: #eaf6f6;
+ }
+ 
+ hr {
+     border-style: none;
+     border-top-style: dotted;
+     border-color: #67aaaa;
+     border-width: 7px;
+     width: 4%;
+     margin: 100px auto 100px auto;
+ }
+ 
+ h1 {
+     margin: 50px auto 0 auto;
+     font-family: 'Sacramento', cursive;
+     font-size: 90px;
+     color: #66BFBF;
+     line-height: 2;
+ }
+ 
+ h2 {
+     font-weight: normal;
+     font-family: 'Sacramento', cursive;
+     font-size: 2.5rem;
+     font-weight: normal;
+     padding-bottom: 10px;
+     color: #66BFBF;
+ }
+ 
+ h3 {
+     font-family: 'Sacramento', cursive;
+     color: #11999E;
+ }
+ 
+ .top-containers {
+     background-color: #E4F9F5;
+     position: relative;
+     padding-top: 100px;
+ }
+ 
+ .middle-container {
+     margin: 100px 0;
+ }
+ 
+ .bottom-container {
+     background-color: #66BFBF;
+     padding: 50px 0 20px;
+ }
+ 
+ .skill-row {
+     width: 50%;
+     margin: 100px auto 100px auto;
+     text-align: left;
+ }
+ 
+ .intro {
+     margin: auto;
+     width: 30%;
+ }
+ 
+ .pro {
+     text-decoration: underline;
+ }
+ 
+ .BADMINTON {
+     width: 50%;
+     float: left;
+     margin: auto 30px auto auto;
+ }
+ 
+ .Reading {
+     width: 50%;
+     float: right;
+     margin: auto 30px auto auto;
+ }
+ 
+ .me {
+     height: 250px;
+     width: 240px;
+ }
+ 
+ .top-cloud {
+     position: absolute;
+     top: 50px;
+     right: 300px;
+ }
+ 
+ .bottom-cloud {
+     position: relative;
+     right: 25px;
+     bottom: 377px;
+ }
+ 
+ .contact-message {
+     width: 40%;
+     margin: 40px auto 40px auto;
+ }
+ 
+ .btn {
+     background: #11CDD4;
+     background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+     background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+     background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+     background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+     background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+     -webkit-border-radius: 8;
+     -moz-border-radius: 8;
+     border-radius: 8px;
+     font-family: 'Indie Flower', sans-serif;
+     color: #ffffff;
+     font-size: 20px;
+     padding: 10px 20px 10px 20px;
+     text-decoration: none;
+ }
+ 
+ .btn:hover {
+     background: #30E3CB;
+     background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+     background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+     background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+     background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+     background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+     text-decoration: none;
+ }
+ 
+ .last {
+     margin: 16px auto 0 auto;
+     color: #eaf6f6;
+     font-size: 0.75rem;
+     padding: 20px 0;
+ }
